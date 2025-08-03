@@ -1,8 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Deployed on Vercel
+## Deployed on Netlify
 
-https://markdown-previewer95-rdif0y0it-bitforge95s-projects.vercel.app/
+https://markdown-previewer95.netlify.app/
+
 
 ## Getting Started
 
